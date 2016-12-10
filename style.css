@@ -1,0 +1,11 @@
+h1#Heading {
+	color: white;
+	background-color: black;
+	margin-left: 15px;
+}
+
+p#Para {
+	color: blue;
+	background-color: yellow;
+	margin-left: 25px;
+}
